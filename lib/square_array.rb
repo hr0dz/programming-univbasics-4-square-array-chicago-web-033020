@@ -4,7 +4,7 @@ def square_array(array)
   while counter < array.length do
     x = array[counter]
     y = x*x
-    squares << y
+    squares < y
     counter += 1
   end
   return squares
